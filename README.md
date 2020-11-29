@@ -15,5 +15,4 @@
                               =              -texting                                                         =
                               =================================================================================
 
-
-                ![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/model-snap.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/model-snap.PNG)
