@@ -15,4 +15,9 @@
                               =              -texting                                                         =
                               =================================================================================
 
-![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/model-snap.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/model-snap.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/CreatePrizeForm.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/CreateTeamForm.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/CreateTournamentForm.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/TournamentViewer.PNG)
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/tournamentForm.PNG)
