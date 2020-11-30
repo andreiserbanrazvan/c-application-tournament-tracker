@@ -1,0 +1,17 @@
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\frmDashboard.exe.config
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\frmDashboard.exe
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\frmDashboard.pdb
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.frmCreatePrize.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.frmCreateTeam.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.frmCreateTournament.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.frmTournamentDashboard.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.frmTournamentViewer.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.Properties.Resources.resources
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.exe
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.pdb
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\TrackerLibrary.dll
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\TrackerLibrary.pdb
+C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\TrackerUI.csproj.CopyComplete

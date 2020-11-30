@@ -8,15 +8,26 @@ namespace frmDashboard
 {
     static class Program
     {
+        
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
         {
+            
+    
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTournamentDashboard());
+
+            // Initialize the database connections 
+            TrackerLibrary.GlobalConfig.InitializeConnections(true, true);
+
+            Application.Run(new frmCreatePrize());
+         
+
+
+
         }
     }
 }
