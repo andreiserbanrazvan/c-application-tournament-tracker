@@ -14,7 +14,7 @@
                               =              -random ordering for players in brackets                         =
                               =              -texting                                                         =
                               =================================================================================
-
+![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/db-model-diagram.PNG)
 ![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/model-snap.PNG)
 ![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/CreatePrizeForm.PNG)
 ![alt-text](https://github.com/andreiserbanrazvan/c-application-tournament-tracker/blob/master/Images/CreateTeamForm.PNG)
