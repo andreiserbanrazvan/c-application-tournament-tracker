@@ -21,7 +21,7 @@ namespace frmDashboard
             Application.SetCompatibleTextRenderingDefault(false);
 
             // Initialize the database connections 
-            TrackerLibrary.GlobalConfig.InitializeConnections(TrackerLibrary.DatabaseType.Sql);
+            TrackerLibrary.GlobalConfig.InitializeConnections(TrackerLibrary.DatabaseType.TextFile);
             Application.Run(new frmCreatePrize());
          
 

@@ -40,7 +40,7 @@ namespace frmDashboard
             }
             else
             {
-                MessageBox.Show("This form has information. Please check it and try again.");
+                MessageBox.Show("This form has wrong input information. Please check it and try again.");
             }
         }
 
