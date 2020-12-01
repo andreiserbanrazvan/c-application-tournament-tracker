@@ -174,6 +174,7 @@
             this.Name = "frmCreatePrize";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Create Prize";
+            this.Load += new System.EventHandler(this.frmCreatePrize_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,0 +1,25 @@
+USE [Tournaments]
+GO
+/****** Object:  StoredProcedure [dbo].[spPrizes_Insert]    Script Date: 12/1/2020 3:55:34 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER PROCEDURE [dbo].[spPrizes_Insert]
+	@PlaceNumber int,
+	@PlaceName nvarchar(50),
+	@PrizeAmount money,
+	@PrizePercentage float,
+	@id int = 0 output
+AS
+BEGIN
+	
+	SET NOCOUNT ON;
+
+    insert into dbo.Prizes (PlaceNumber,PlaceName,PrizeAmount,PricePercentage)
+	values (@PlaceNumber,@PlaceName,@PrizeAmount,@PrizePercentage);
+
+	select @id = SCOPE_IDENTITY();
+
+END

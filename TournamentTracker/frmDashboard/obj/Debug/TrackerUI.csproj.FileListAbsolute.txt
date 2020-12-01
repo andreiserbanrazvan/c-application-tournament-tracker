@@ -15,3 +15,5 @@ C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\frmDashboard.pdb
 C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\TrackerLibrary.dll
 C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\TrackerLibrary.pdb
 C:\Dev\tournament\TournamentTracker\frmDashboard\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\Dapper.dll
+C:\Dev\tournament\TournamentTracker\frmDashboard\bin\Debug\Dapper.xml
