@@ -1,0 +1,11 @@
+
+CREATE PROCEDURE dbo.spPeople_GetAll
+	
+AS
+BEGIN
+	
+	SET NOCOUNT ON;
+	Select * From People;
+   
+END
+GO
